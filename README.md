@@ -1,3 +1,3 @@
-# Date_Book_Match_Android_v1.0
- Aplicación finalizada. Versión 1.0 en versión Android
-Resoluciones 16:9 (1080 x 1920)
+# Date Book Match Android v1.0
+ Versión 1.0 para Android
+Resolución 16:9 (1080 x 1920)
